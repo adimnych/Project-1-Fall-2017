@@ -37,11 +37,12 @@ nav {
   		padding: 40px 40px 40px 40px;
   	}
   	xpp{
-  		font-size: 15px;
+  		font-size: 16px;
   		width: 100%;
   		padding: 20px 20px 20px 80px;
   		border:none;
   		box-shadow: 0 0 4px 2px #333;
+      left: 30px; /* This will move it 20px to the right */
 
   	}
   	xpp:focus{
