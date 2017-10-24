@@ -25,24 +25,25 @@ nav {
   		border:5px solid #f44444;
   	}
   	header{
-  		width: 97%;
+  		width: 100%;
   		padding: 10px;
   		text-align: center;
   		background:linear-gradient(#451212, #4213e2);
   		color: #bbb;
   		font-size: 45px;
   		text-shadow: 1px 1px 2px #555;
-  		text-transform: uppercase;
   	}
   	form-box{
   		padding: 40px 40px 40px 40px;
   	}
   	xpp{
-  		font-size: 15px;
+  		font-size: 16px;
   		width: 100%;
   		padding: 20px 20px 20px 80px;
   		border:none;
   		box-shadow: 0 0 4px 2px #333;
+      position: relative;
+      left: 30px; /* This will move it 20px to the right */
 
   	}
   	xpp:focus{
