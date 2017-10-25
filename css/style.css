@@ -5,6 +5,7 @@
   	}
   	.main{
       width:600px;
+      height: 1000px;
       background-color: #eee;
       margin: 40px auto;
       border-radius: 5px;
@@ -59,12 +60,12 @@
     }
   	img{
   		position: absolute;
-  		width:80px;
-  		height: 80px;
+  		width:60px;
+  		height: 60px;
       margin-left:35px;
   		padding: 6px;
   		background-color: #eee;
-  		border-right: 2px solid #555;
+  		
   		border-top-left-radius: 5px;
   		border-bottom-left-radius: 5px; 
   	}
