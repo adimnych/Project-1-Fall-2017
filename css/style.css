@@ -5,7 +5,7 @@
   	}
   	.main{
       width:600px;
-      height: 1000px;
+      height: 1510px;
       background-color: #eee;
       margin: 40px auto;
       border-radius: 5px;
@@ -56,7 +56,7 @@
   	}
     User{
       margin-left:350px;
-      
+      top: 25px;
     }
     Facebook{
       margin-left:350px;
