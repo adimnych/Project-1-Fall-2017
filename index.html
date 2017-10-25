@@ -15,8 +15,8 @@
   <div class="user-info">
     <fieldset>
 	  <p><label> Your Name: </label></p>
-	  <input type="text" id="first-name" placeholder="First Name">
-      <input type="text" id="last-name" placeholder="Last Name">
+	  <input type="text" id="first-name" placeholder="First Name" required>
+      <input type="text" id="last-name" placeholder="Last Name" required>
       <img src="images/users.png" alt="user" class="User">
 
       <p><label> Your E-mail: </label></p>
@@ -24,12 +24,12 @@
       <img src="images/mail.png" alt="email" class="Email">
 
       <p><label> Desired username: </label></p>
-	  <input type="text" id="user-name" placeholder="User-Name">
+	  <input type="text" id="user-name" placeholder="User-Name" required>
 
 	  <p><label> Your password: </label></p>
-      <input type="text" id="password" placeholder="Password">
+      <input type="text" id="password" placeholder="Password" required>
       <p><label> Type password again: </label></p>
-      <input type="text" id="password2" placeholder="Password">
+      <input type="text" id="password2" placeholder="Password" required>
       <img src="images/password.png" alt="password" class="Password">
 
       <p>Please choose some of your favorite Jazz styles: </p>
@@ -39,7 +39,7 @@
       <input type="checkbox" id ="blues" name="blues"> <label for="blues"> Blues </label>
       <input type="checkbox" id ="swinging" name="swinging"> <label for="swinging"> Swinging </label>
 
-      <input type="checkbox" id ="agree" name="agree"> <label for="agree"> I agree with the terms and conditions of the rules </label>
+      <input type="checkbox" id ="agree" name="agree"> <label for="agree"> I agree with the terms and conditions of the rules </label required>
 
       <p><strong id="Hurry"> In a hurry?</strong></p>
 	  <p><strong id="Register">Register with one of these! </strong></p>
