@@ -23,7 +23,7 @@ body{
   height: auto;
   margin: 0 auto;
   position: absolute;
-  left: 379px;
+  left: 420px;
   top: 160px;
 }
 #emailimg{
@@ -32,7 +32,7 @@ body{
   height: 200px;
   margin: 0 auto;
   position: absolute;
-  left: 320px;
+  left: 360px;
   top: 300px;
 }
 #passimg{
@@ -41,7 +41,7 @@ body{
   height: 200px;
   margin: 0 auto;
   position: absolute;
-  left: 320px;
+  left: 360px;
   top:480px;
 }
 .user-info{
