@@ -73,7 +73,7 @@ input[type=text], input[type=text], input[type=email], input[type=password] {
   text-align: center;
 }
 label{
-  font-family: 'Lobster Two', cursive;
+  font-family: 'Open Sans', sans-serif;
 	font-size: 25px;
 	color: #ffba0c;
 }

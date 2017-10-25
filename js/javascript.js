@@ -1,4 +1,3 @@
-#this is where i will put my functions
 /*this is for when they click the submit button*/
 function button() {
 	alert("GREAT JAZZ PLAYLISTS ON THE WAY!");
