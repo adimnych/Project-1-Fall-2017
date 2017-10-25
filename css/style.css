@@ -5,7 +5,7 @@
   	}
   	.main{
       width:600px;
-      height: 1510px;
+      height: 1310px;
       background-color: #eee;
       margin: 40px auto;
       border-radius: 5px;
@@ -14,6 +14,7 @@
   	}
     .register{
       max-width: 960px;
+      font-family: 'Courgette', cursive;
       color:##1b1e19;
       text-align: center;
     }
@@ -77,10 +78,25 @@
       text-align: center;
     }
   	label{
+      font-family: 'Lobster Two', cursive;
   		font-size: 25px;
   		color: #ffba0c;
 
   	}
+
+    .button {
+        background-color: #ff4977;
+        color: ##000000;
+        padding: 20px;
+        position: absolute;
+        left:140px;
+        top: 1200px;
+        text-transform: uppercase;
+        border-radius: 20px;
+        -moz-border-radius: 20px;
+        -webkit-border-radius: 20px;
+        margin:10px
+    }
     User{
       margin-left:350px;
       top: 25px;
