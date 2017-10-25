@@ -23,8 +23,8 @@ body{
   height: auto;
   margin: 0 auto;
   position: absolute;
-  left: 280px;
-  top: 90px;
+  left: 379px;
+  top: 160px;
 }
 #emailimg{
   font-size: 0;
@@ -32,8 +32,8 @@ body{
   height: 200px;
   margin: 0 auto;
   position: absolute;
-  left: 280px;
-  top: 280px;
+  left: 320px;
+  top: 300px;
 }
 #passimg{
   font-size: 0;
@@ -41,8 +41,8 @@ body{
   height: 200px;
   margin: 0 auto;
   position: absolute;
-  left: 280px;
-  top:500px;
+  left: 320px;
+  top:480px;
 }
 .user-info{
   max-width: 960px;
@@ -104,7 +104,7 @@ Google{
   margin-left:350px;
 }
 img{
-	position: absolute;
+  position: relative;
 	width:60px;
   margin-left:35px;
 }
