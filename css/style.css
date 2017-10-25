@@ -1,144 +1,130 @@
 
-  	body{
-  		background-color: #f2eeea;
-
-  	}
-  	.main{
-      width:600px;
-      height: 1310px;
-      background-color: #eee;
-      margin: 40px auto;
-      border-radius: 5px;
-      border:5px solid #999;
-      box-shadow: 0 0 10px #000;
-  	}
-    .register{
-      max-width: 960px;
-      font-family: 'Courgette', cursive;
-      color:##1b1e19;
-      text-align: center;
-    }
-
-    #users{
-      font-size: 0;
-      width: 75px;
-      height: auto;
-      margin: 0 auto;
-      position: absolute;
-      left: 420px;
-      top: 90px;
-    }
-    #emailimg{
-      font-size: 0;
-      width: 200px;
-      height: 200px;
-      margin: 0 auto;
-      position: absolute;
-      left: 380px;
-      top: 280px;
-    }
-    #passimg{
-      font-size: 0;
-      width: 200px;
-      height: 200px;
-      margin: 0 auto;
-      position: absolute;
-      left: 380px;
-      top:500px;
-    }
-    .user-info{
-      max-width: 960px;
-      color:#1b1e19;
-      text-align: center;
-    }
-
-     form {
-   width: 550px;
-   height: 450px;
-   margin: auto;
-   position: relative;
- }
-    
-  	header{
-  		width: 100%;
-  		padding: 10px;
-  		text-align: center;
-  		background:linear-gradient(#451212, #4213e2);
-  		color: #bbb;
-  		font-size: 45px;
-  		text-shadow: 1px 1px 2px #555;
-  	}
-
-    input[type=text], input[type=text], input[type=email], input[type=password] {
-      width: 50%;
-      top: 40px;
-      margin-left: 20px;
-      padding: 8px 8px;
-      font-size: 100%;
-      text-align: center;
-    }
-  	label{
-      font-family: 'Lobster Two', cursive;
-  		font-size: 25px;
-  		color: #ffba0c;
-
-  	}
-
-    .button {
-        background-color: #ff4977;
-        color: ##000000;
-        padding: 20px;
-        position: absolute;
-        left:140px;
-        top: 1200px;
-        text-transform: uppercase;
-        border-radius: 20px;
-        -moz-border-radius: 20px;
-        -webkit-border-radius: 20px;
-        margin:10px
-    }
-    User{
-      margin-left:350px;
-      top: 25px;
-    }
-    Facebook{
-      margin-left:350px;
-      
-    }
-      Twitter{
-      margin-left:350px;
-      
-    }
-    Google{
-      margin-left:350px;
-     
-  	img{
-  		position: absolute;
-  		width:60px;
-      margin-left:35px;
-  		
-  	}
-     h3{
-      font-size: 25px;
-      color: #134233;
-    }
-    
-
-    }
-
-    @media screen and (min-width: 960px){
-      .title{
-        font-size: 25px;
-      }
-      label {
-        font-size: 25px;
-      }
-      #Hurry{
-        font-size: 25px;
-        text-align: left;
-      }
-      #Register{
-        font-size: 25px;
-        text-align: left;
+body{
+	background-color: #f2eeea;
 }
-
+.main{
+  width:600px;
+  height: 1310px;
+  background-color: #eee;
+  margin: 40px auto;
+  border-radius: 5px;
+  border:5px solid #999;
+  box-shadow: 0 0 10px #000;
+}
+.register{
+  max-width: 960px;
+  font-family: 'Courgette', cursive;
+  color:#1b1e19;
+  text-align: center;
+}
+#users{
+  font-size: 0;
+  width: 75px;
+  height: auto;
+  margin: 0 auto;
+  position: absolute;
+  left: 420px;
+  top: 90px;
+}
+#emailimg{
+  font-size: 0;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  position: absolute;
+  left: 380px;
+  top: 280px;
+}
+#passimg{
+  font-size: 0;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  position: absolute;
+  left: 380px;
+  top:500px;
+}
+.user-info{
+  max-width: 960px;
+  color:#1b1e19;
+  text-align: center;
+}
+form {
+width: 550px;
+height: 450px;
+margin: auto;
+position: relative;
+}
+header{
+	width: 100%;
+	padding: 10px;
+	text-align: center;
+	background:linear-gradient(#451212, #4213e2);
+	color: #bbb;
+	font-size: 45px;
+	text-shadow: 1px 1px 2px #555;
+}
+input[type=text], input[type=text], input[type=email], input[type=password] {
+  width: 50%;
+  top: 40px;
+  margin-left: 20px;
+  padding: 8px 8px;
+  font-size: 100%;
+  text-align: center;
+}
+label{
+  font-family: 'Lobster Two', cursive;
+	font-size: 25px;
+	color: #ffba0c;
+}
+.button {
+    background-color: #ff4977;
+    color: #000000;
+    padding: 20px;
+    position: absolute;
+    left:140px;
+    top: 1150px;
+    text-transform: uppercase;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    margin:10px
+}
+User{
+  margin-left:350px;
+  top: 25px;
+}
+Facebook{
+  margin-left:350px;
+}
+Twitter{
+  margin-left:350px;
+}
+Google{
+  margin-left:350px;
+}
+img{
+	position: absolute;
+	width:60px;
+  margin-left:35px;
+}
+ h3{
+  font-size: 25px;
+  color: #134233;
+}
+@media screen and (min-width: 960px){
+  .title{
+    font-size: 25px;
+  }
+  label {
+    font-size: 25px;
+  }
+  #Hurry{
+    font-size: 25px;
+    text-align: left;
+  }
+  #Register{
+    font-size: 25px;
+    text-align: left;
+}
+}
