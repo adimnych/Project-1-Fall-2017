@@ -23,7 +23,7 @@ body{
   height: auto;
   margin: 0 auto;
   position: absolute;
-  left: 420px;
+  left: 280px;
   top: 90px;
 }
 #emailimg{
@@ -32,7 +32,7 @@ body{
   height: 200px;
   margin: 0 auto;
   position: absolute;
-  left: 380px;
+  left: 280px;
   top: 280px;
 }
 #passimg{
@@ -41,7 +41,7 @@ body{
   height: 200px;
   margin: 0 auto;
   position: absolute;
-  left: 380px;
+  left: 280px;
   top:500px;
 }
 .user-info{
@@ -95,10 +95,10 @@ User{
   top: 25px;
 }
 Facebook{
-  margin-left:350px;
+  margin-left:150px;
 }
 Twitter{
-  margin-left:350px;
+  margin-left:250px;
 }
 Google{
   margin-left:350px;
