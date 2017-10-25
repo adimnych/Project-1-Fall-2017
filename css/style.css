@@ -18,10 +18,32 @@
       text-align: center;
     }
 
-    #images{
-      position: relative;
-      top: 50px;
-      left: 50px;
+    #users{
+      font-size: 0;
+      width: 75px;
+      height: auto;
+      margin: 0 auto;
+      position: absolute;
+      left: 420px;
+      top: 90px;
+    }
+    #emailimg{
+      font-size: 0;
+      width: 200px;
+      height: 200px;
+      margin: 0 auto;
+      position: absolute;
+      left: 380px;
+      top: 280px;
+    }
+    #passimg{
+      font-size: 0;
+      width: 200px;
+      height: 200px;
+      margin: 0 auto;
+      position: absolute;
+      left: 380px;
+      top:500px;
     }
     .user-info{
       max-width: 960px;
