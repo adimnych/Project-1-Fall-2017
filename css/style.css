@@ -17,6 +17,12 @@
       color:##1b1e19;
       text-align: center;
     }
+
+    #images{
+      position: relative;
+      top: 50px;
+      left: 50px;
+    }
     .user-info{
       max-width: 960px;
       color:#1b1e19;
