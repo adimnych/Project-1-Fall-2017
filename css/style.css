@@ -56,18 +56,24 @@
   	}
     User{
       margin-left:350px;
-      top: 25px;
+      
     }
+    Facebook{
+      margin-left:350px;
+      
+    }
+      Twitter{
+      margin-left:350px;
+      
+    }
+    Google{
+      margin-left:350px;
+     
   	img{
   		position: absolute;
   		width:60px;
-  		height: 60px;
       margin-left:35px;
-  		padding: 6px;
-  		background-color: #eee;
   		
-  		border-top-left-radius: 5px;
-  		border-bottom-left-radius: 5px; 
   	}
      h3{
       font-size: 25px;
